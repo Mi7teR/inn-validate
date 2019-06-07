@@ -1,0 +1,32 @@
+{
+  "name": "inn-validate",
+  "version": "1.0.0",
+  "description": "Validate Qazaqstan business and individual identification numbers",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "test": "jest",
+    "build": "tsc",
+    "fix": "eslint --fix"
+  },
+  "author": "Olzhas Akhmetkhan",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Mi7teR/inn-validate.git"
+  },
+  "devDependencies": {
+    "@types/jest": "^24.0.13",
+    "@types/node": "^12.0.5",
+    "@typescript-eslint/eslint-plugin": "^1.9.0",
+    "@typescript-eslint/parser": "^1.9.0",
+    "eslint": "^5.16.0",
+    "eslint-config-prettier": "^4.3.0",
+    "eslint-plugin-jest": "^22.6.4",
+    "eslint-plugin-prettier": "^3.1.0",
+    "jest": "^24.8.0",
+    "prettier": "^1.17.1",
+    "ts-jest": "^24.0.2",
+    "typescript": "^3.5.1"
+  }
+}
