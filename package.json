@@ -1,6 +1,6 @@
 {
   "name": "inn-validate",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Validate Qazaqstan business and individual identification numbers",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
